@@ -1,0 +1,80 @@
+nav {
+  display: flex;
+  justify-content: center;
+  padding: 15px;
+  background-color: #FFC5C5;  
+}
+.link {
+  padding: 10px 40px;
+  text-decoration: none;
+  color: black;
+  text-transform: uppercase;
+  font-family: 'PT Sans', sans-serif;
+}
+.socials {
+  float: right;
+  margin-top: 0;
+  width: 50px; 
+  }
+  .theme {
+   float: right;
+   width: 70px;
+   border-radius: 50px;
+   margin-top: 0;
+   background-color: #FFC5C5;
+  }
+   .topPic {
+    float: right;
+    margin-right: 100px;  
+  }
+  .hello {
+    width: 600px;
+    margin-left: 200px;
+    text-align: center;
+    margin-top: 40px;
+  }
+  .timeDate{
+    width: 100px;
+    margin-left: 10px;
+  }
+  h6 {
+    font-family: 'Salsa', cursive;
+    font-size: 14px;
+    text-shadow: 1px 1px #1cb2fb;
+  }
+  h1 {
+    font-family: 'Salsa', cursive;
+    text-shadow: 2px 3px #eb8a85;
+  }
+  h2 {
+    font-family: 'Salsa', cursive;
+  }
+  p {
+    font-family: 'PT Sans', sans-serif;  
+  }
+  .btn {
+    background-color: transparent;
+    color: black;
+    margin: 200px 80px;
+    border: 1px solid black;
+    height: 40px;
+    width: 100px;
+  }
+  .buttons-image {
+    padding: 10px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;  
+  }
+.contacts, .courses {
+  display: flex;
+ flex-direction: column;
+ align-items: center;
+}
+.enRu {
+  border: none;
+  background-color: #FFC5C5;
+  font-size: 18px;
+}
+
+
